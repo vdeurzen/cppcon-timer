@@ -1,0 +1,281 @@
+[
+    {
+        "title": "Course Day 1",
+        "begin": "2018-09-22T09:00:00",
+        "duration": 480
+    },
+    {
+        "title": "Course Day 2",
+        "begin": "2018-09-23T09:00:00",
+        "duration": 480
+    },
+
+    {
+        "title": "Registration",
+        "begin": "2018-09-24T08:00:00",
+        "duration": 60,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Keynote",
+        "begin": "2018-09-24T09:00:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 1",
+        "begin": "2018-09-24T11:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Open Content - part 1",
+        "begin": "2018-09-24T12:30:00",
+        "duration": 60,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 2",
+        "begin": "2018-09-24T14:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 3",
+        "begin": "2018-09-24T15:15:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 4",
+        "begin": "2018-09-24T16:45:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Open Content - part 2",
+        "begin": "2018-09-24T20:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+
+    {
+        "title": "Open Content - part 1",
+        "begin": "2018-09-25T08:00:00",
+        "duration": 45,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 1",
+        "begin": "2018-09-25T09:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Plenary",
+        "begin": "2018-09-25T10:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Program Committee",
+        "begin": "2018-09-25T12:30:00",
+        "duration": 60,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 2",
+        "begin": "2018-09-25T14:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 3.0",
+        "begin": "2018-09-25T15:15:00",
+        "duration": 30,
+        "tracks": ["A", "B", "C", "D", "E"]
+    },
+    {
+        "title": "Session 3.1",
+        "begin": "2018-09-25T15:45:00",
+        "duration": 30,
+        "tracks": ["A", "B", "C", "D", "E"]
+    },
+    {
+        "title": "Session 4",
+        "begin": "2018-09-25T16:45:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E"]
+    },
+    {
+        "title": "Boost Community Dinner",
+        "begin": "2018-09-25T18:00:00",
+        "duration": 180,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Lightning Talks",
+        "begin": "2018-09-25T20:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+
+    {
+        "title": "Open Content",
+        "begin": "2018-09-26T08:00:00",
+        "duration": 45,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 1",
+        "begin": "2018-09-26T09:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Keynote",
+        "begin": "2018-09-26T10:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Open Content",
+        "begin": "2018-09-26T12:30:00",
+        "duration": 60,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 2",
+        "begin": "2018-09-26T14:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 3.0",
+        "begin": "2018-09-26T15:15:00",
+        "duration": 30,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 3.1",
+        "begin": "2018-09-26T15:45:00",
+        "duration": 30,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 4",
+        "begin": "2018-09-26T16:45:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+        "title": "Lightning Talks",
+        "begin": "2018-09-26T20:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+
+    {
+        "title": "Session 1",
+        "begin": "2018-09-27T09:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Plenary",
+        "begin": "2018-09-27T10:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Open Content",
+        "begin": "2018-09-27T12:30:00",
+        "duration": 60,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 2",
+        "begin": "2018-09-27T14:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 3.0",
+        "begin": "2018-09-27T15:15:00",
+        "duration": 30,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 3.1",
+        "begin": "2018-09-27T15:45:00",
+        "duration": 30,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 4",
+        "begin": "2018-09-27T16:45:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+        "title": "Meet the Speakers Dinner",
+        "begin": "2018-09-27T18:30:00",
+        "duration": 120,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "CppCon 2019 Kickoff Meeting",
+        "begin": "2018-09-27T20:30:00",
+        "duration": 90,
+        "tracks": ["TBA"]
+    },
+
+    {
+        "title": "Open Content - part 1",
+        "begin": "2018-09-28T08:00:00",
+        "duration": 45,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 1",
+        "begin": "2018-09-28T09:00:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Session 2",
+        "begin": "2018-09-28T10:30:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Open Content",
+        "begin": "2018-09-28T12:00:00",
+        "duration": 60,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Session 3",
+        "begin": "2018-09-28T13:30:00",
+        "duration": 60,
+        "tracks": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+        "title": "Plenary",
+        "begin": "2018-09-28T14:45:00",
+        "duration": 105,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Closing Panel: Spectre",
+        "begin": "2018-09-28T16:45:00",
+        "duration": 75,
+        "tracks": ["TBA"]
+    },
+    {
+        "title": "Open Content - part 2",
+        "begin": "2018-09-28T18:30:00",
+        "duration": 120,
+        "tracks": ["TBA"]
+    }
+]

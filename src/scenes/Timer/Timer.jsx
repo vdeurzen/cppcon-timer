@@ -5,13 +5,7 @@ import CountdownTimer from "./components/CountdownTimer";
 
 class Timer extends React.Component {
   render() {
-    return (
-      <Grid container spacing={24}>
-        <Grid item xs>
-          <CountdownTimer />
-        </Grid>
-      </Grid>
-    );
+    return <CountdownTimer />;
   }
 }
 

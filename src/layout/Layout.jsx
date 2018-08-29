@@ -75,8 +75,11 @@ const styles = theme => ({
     },
     content:{
         flexGrow: 1,
+        minHeight: `100%`,
         backgroundColor: theme.palette.background.default,
-        paddind: theme.spacing.unit * 3,
+        padding: theme.spacing.unit * 3,
+        justifyContent: 'center',
+        alignItems: 'center'
     },
 })
 
